@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+Screen Shot 2021-03-29 at 11.57.27 AM.png
+bin
+lib
+.env
+secrets.py
+content
+photo.jpg
